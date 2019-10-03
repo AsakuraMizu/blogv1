@@ -86,7 +86,12 @@ theme: hexo-theme-material-x
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/water-lift/blog.solariar.tech.git
-  branch: page
+  type: 
+
+gitalk:
+  clientID: 74942cd8dcfbe9b93934
+  clientSecret: 229020620f61a3874bab7d38f5630f50a679cec2
+  repo: blog.solariar.tech
+  owner: water-lift
+  admin: [water-lift]
 

@@ -1,6 +1,10 @@
 ---
 layout: links
 title: 友链
+sidebar:
+  - grid
+  - category
+  - tagcloud
 links:
   - group: OIer
     icon: fas fas-user-tie

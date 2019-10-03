@@ -38,7 +38,7 @@ music:
   autoplay: false   # 自动播放
 
 # 友链页头像占位图
-avatar_placeholder: //k.luogu.org/icon.png
+avatar_placeholder: //i.loli.net/2019/10/03/lZH36MREJGraKze.png
 
 # 日期格式 http://momentjs.com/docs/
 date_format: 'YYYY-MM-DD' # 文章发布日期的格式
