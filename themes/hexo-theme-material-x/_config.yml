@@ -4,7 +4,7 @@ info:
   docs: https://xaoxuu.com/wiki/material-x/
   cdn: # 把对应的那一行注释掉就使用本地的文件
     css:
-      style: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-material-x@19.9.9/css/style.css
+      #style: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-material-x@19.9.9/css/style.css
     js:
       app: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-material-x@19.9/js/app.js
       search: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-material-x@19.9/js/search.js
@@ -50,7 +50,9 @@ backstretch:
   duration: 6000 # 持续时间（毫秒）
   fade: 2500     # 渐变（毫秒）
   images:
-   - https://img.vim-cn.com/29/91197b04c13f512f734a76d4ac422d89dbe229.jpg
+    - //img.vim-cn.com/ca/5e6390fdc043b2d39fb144f62a87ecba7a81bb.jpg
+    #- https://img.vim-cn.com/d9/bae23493b9909279ea4b1ea7ae6e12431b61d0.jpg
+    #- https://img.vim-cn.com/29/91197b04c13f512f734a76d4ac422d89dbe229.jpg
 
 ############################### 自定义 ###############################
 # page的封面
@@ -96,9 +98,6 @@ menu_desktop:
     icon: fas fa-archive
     url: /archives/
     rel: nofollow
-  - name: 项目
-    icon: fas fa-code-branch
-    url: /projects/
 
 # 手机端导航菜单（从右上角的按钮点击展开）
 menu_mobile:
