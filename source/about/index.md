@@ -16,7 +16,9 @@ sidebar:
 
 ## 目前状况 | Status
 
-S-T's blog 目前由 [water_lift](//github.com/water-lift/) 维护，且已在 [Github](//github.com/water-lift/blog.solariar.tech/) 上开源。
+S-T's blog 目前由 [water_lift](//github.com/water-lift/) 维护，使用 [ZEIT](https://zeit.co/) 部署，且已在 [Github](//github.com/water-lift/blogv1/) 上开源。
+
+预计一段时间后将不再使用Hexo，改为使用Next.js自行维护。
 
 ## 联系我们 | Contact
 

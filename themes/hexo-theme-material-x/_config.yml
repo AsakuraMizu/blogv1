@@ -98,6 +98,10 @@ menu_desktop:
     icon: fas fa-archive
     url: /archives/
     rel: nofollow
+  - name: 项目
+    icon: fas fa-code
+    url: /categories/Project/
+    rel: nofollow
 
 # 手机端导航菜单（从右上角的按钮点击展开）
 menu_mobile:
