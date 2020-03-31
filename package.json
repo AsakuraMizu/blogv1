@@ -16,7 +16,7 @@
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^1.0.0",
-    "hexo-generator-json-content": "^4.1.6",
+    "hexo-generator-json-content": "^4.2.3",
     "hexo-generator-search": "^2.4.0",
     "hexo-generator-tag": "^1.0.0",
     "hexo-related-popular-posts": "^4.0.0",
