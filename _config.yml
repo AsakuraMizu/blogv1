@@ -3,14 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: S-T's blog
+title: Solariar Tech
 subtitle: Solariar Tech
 description:
 keywords:
     - Solariar Tech
     - blog
     - hexo
-    - S-T's blog
 author: Solariar Tech
 avatar: /img/site.svg
 favicon: /img/favicon.ico
