@@ -276,7 +276,7 @@ comments:
     clientSecret: 229020620f61a3874bab7d38f5630f50a679cec2
     repo: blog
     owner: AsakuraMizu
-    admin: # [AsakuraMizu]
+    admin: [AsakuraMizu]
     path: # 全局评论地址
   # Vssue
   # https://vssue.js.org/zh/
