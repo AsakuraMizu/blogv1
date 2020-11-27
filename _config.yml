@@ -39,10 +39,11 @@ skip_render:
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
+external_link:
+  enable: true
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -80,17 +81,23 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-material-x
+theme: volantis
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 
 
-gitalk:
-  clientID: 74942cd8dcfbe9b93934
-  clientSecret: 229020620f61a3874bab7d38f5630f50a679cec2
-  repo: blog.solariar.tech
-  owner: water-lift
-  admin: [water-lift]
-
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:

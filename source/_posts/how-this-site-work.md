@@ -6,9 +6,7 @@ tags:
   - Hexo
 categories:
   - Hexo
-author:
-  name: water_lift
-  avatar: //actinoi.oss-cn-hongkong.aliyuncs.com/%E5%8F%8B%E9%93%BE/water_lift.JPG
+author: water_lift
 
 ---
 
